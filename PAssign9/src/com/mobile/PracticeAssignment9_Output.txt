@@ -1,0 +1,42 @@
+
+Sample Input & Output 1:
+
+Enter the number of mobiles:
+7
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+#SM 46 JJ6-002,Galaxy J6,5.7,13900,17-02-2018
+#SM 47 PRO-003,J3 pro,5,7490,19-06-2017
+#SM 48 DUO-004,J7 Duo,5.6,17000,23-09-2016
+#SM 49 PRO-005,J7 Pro,5.5,16900,15-12-2017
+#SM 50 ONN-006,On5,5,6990,29-07-2017
+#SM 51 NXT-007,J7 Nxt,5.5,9490,30-03-2018
+Enter a search type:
+1.By Model Name
+2.By Display Size
+1
+Enter the Model Name:
+Galaxy J6
+Reference Id    Model Name      Display Size Price    Launched Date
+#SM 45 JJ6-001  Galaxy J6       5.6          13990.0  Mon Jan 02 00:00:00 IST 2017
+#SM 46 JJ6-002  Galaxy J6       5.7          13900.0  Sat Feb 17 00:00:00 IST 2018
+
+Sample Input & Output 1:
+
+Enter the number of mobiles:
+7
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+#SM 46 MAX-002,Galaxy On Max,5.7,13900,17-02-2018
+#SM 47 PRO-003,J3 pro,5,7490,19-06-2017
+#SM 48 DUO-004,J7 Duo,5.6,17000,23-09-2016
+#SM 49 PRO-005,J7 Pro,5.5,16900,15-12-2017
+#SM 50 ONN-006,On5,5,6990,29-07-2017
+#SM 51 NXT-007,J7 Nxt,5.7,9490,30-03-2018
+Enter a search type:
+1.By Model Name
+2.By Display Size
+2
+Enter the Display Size:
+5.7
+Reference Id    Model Name      Display Size Price    Launched Date
+#SM 46 MAX-002  Galaxy On Max   5.7          13900.0  Sat Feb 17 00:00:00 IST 2018
+#SM 51 NXT-007  J7 Nxt          5.7          9490.0   Fri Mar 30 00:00:00 IST 2018

@@ -1,0 +1,55 @@
+
+Sample Input and Output:
+
+Enter the name of the Mobile Brand:
+Samsung
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+1
+Enter mobile details (referenceId,modelName,displaySize,price,launchedDate):
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+Mobile successfully added
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+3
+Mobiles in Samsung
+Reference Id    Model Name      Display Size Price    Launched Date
+#SM 45 JJ6-001  Galaxy J6       5.6          13990.0  02-01-2017
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+2
+Enter the reference id of the mobile to be deleted:
+#SM 45 JJ6-001
+Mobile successfully deleted
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+2
+Enter the reference id of the mobile to be deleted:
+#SM 45 JJ6-001
+Mobile not found in the Mobile Brand
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+3
+No mobiles to show
+1.Add Mobile
+2.Delete Mobile
+3.Display Mobiles
+4.Exit
+Enter your choice:
+4
+Exiting...

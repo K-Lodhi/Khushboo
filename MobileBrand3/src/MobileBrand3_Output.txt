@@ -1,0 +1,11 @@
+Sample Input and Output 1:
+
+Enter the reference Id to be validated:
+#RM 87 AAA-062
+Reference Id is valid
+
+Sample Input and Output 2:
+
+Enter the reference Id to be validated:
+#MT 57 X-067
+Reference Id is invalid

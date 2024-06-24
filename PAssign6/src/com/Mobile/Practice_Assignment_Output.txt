@@ -1,0 +1,43 @@
+
+Sample Input and Output 1:
+
+Enter mobile 1 detail:
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+Enter mobile 2 detail:
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+Mobile 1
+Reference Id: #SM 45 JJ6-001
+Model Name: Galaxy J6
+Display Size: 5.6
+Price: 13990.0
+Launched Date: 02-01-2017
+
+Mobile 2
+Reference Id: #SM 45 JJ6-001
+Model Name: Galaxy J6
+Display Size: 5.6
+Price: 13990.0
+Launched Date: 02-01-2017
+Mobile 1 is same as Mobile 2
+
+
+Sample Input and Output 2:
+
+Enter mobile 1 detail:
+#SM 45 JJ6-001,Galaxy J6,5.6,13990,02-01-2017
+Enter mobile 2 detail:
+#SM 45 JJ6-001,Galaxy J7,5.6,13990,02-01-2017
+Mobile 1
+Reference Id: #SM 45 JJ6-001
+Model Name: Galaxy J6
+Display Size: 5.6
+Price: 13990.0
+Launched Date: 02-01-2017
+
+Mobile 2
+Reference Id: #SM 45 JJ6-001
+Model Name: Galaxy J7
+Display Size: 5.6
+Price: 13990.0
+Launched Date: 02-01-2017
+Mobile 1 and Mobile 2 are different
